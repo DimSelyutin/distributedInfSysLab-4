@@ -1,0 +1,15 @@
+*.docx
+!Лабораторная работа 4.docx
+!Отчет_Пример.docx
+!Отчет_ЛР4_Вариант16.docx
+_*.txt
+target/
+logs/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.class
+*.log
+.DS_Store
